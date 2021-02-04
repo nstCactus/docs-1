@@ -4,13 +4,13 @@ helpfulVotes: false
 home: true
 ---
 
-# Documentation
+# Welcome to the Craft Documentation
 
-This landing page describes the first-party learning materials in the Craftsphere and splits off into documentation for [Craft CMS](/3.x/), [Craft Commerce](/commerce/3.x/), [Craft Nitro](/nitro/), and the [Intro to Craft CMS tutorial](/getting-started-tutorial/).
+This page describes the first-party learning materials in the Craftsphere and splits off into documentation for [Craft CMS](/3.x/), [Craft Commerce](/commerce/3.x/), [Craft Nitro](/nitro/), and the [Intro to Craft CMS tutorial](/getting-started-tutorial/).
 
 ## Browse Product Documentation
 
-The **documentation** is each product’s user manual, describing its features and how to work with it. It’s for front end developers building sites, and PHP developers extending Craft or Commerce.
+The documentation is each product’s user manual, describing its features and how to work with it. It’s for front end developers building sites, and PHP developers extending Craft or Commerce.
 
 <div class="w-full sm:flex sm:-mx-2">
     <LinkPanel title="Craft CMS" subtitle="Flexible content management." link="/3.x/" icon="/docs/icons/craft.svg" />
@@ -18,21 +18,6 @@ The **documentation** is each product’s user manual, describing its features a
 </div>
 
 The documentation is organized to be read sequentially, starting with installation and core concepts it continues to build on. It ends with _Extending_ sections to be used as jumping-off points adding to or enhancing Craft or Commerce with your own code. You can jump around however you’d like, but sometimes it helps to work your way down a section in order.
-
-In addition to the documentation, Craft CMS and Craft Commerce each have a separate **class reference** that’s generated from the source code. The class reference is more like a technical schematic, where browsing requires familiarity with the source code’s layout. The documentation frequently links to the class reference as a way to point to the exhaustive, definitive description of the subject.
-
-### IDE Autocompletion
-
-An advanced understanding of Craft requires reading the documentation and reading the code. One of the fastest ways to explore the code is by taking the time to set up autocompletion for your code editor.
-
-Once you’ve configured PhpStorm properly, for example, you can click through live code like a website and get thorough, automatic suggestions for templates and queries and PHP code as you type it.
-
-Further reading:
-
-- [PhpStorm Settings for Craft CMS](https://github.com/craftcms/phpstorm-settings)
-- [Auto-Complete Craft CMS 3 APIs in Twig with PhpStorm](https://nystudio107.com/blog/auto-complete-craft-cms-3-apis-in-twig-with-phpstorm)
-- [GraphQL Schema Auto-Completion with PhpStorm](https://nystudio107.com/blog/graphql-schema-auto-completion-with-phpstorm)
-- [PhpStorm can auto-complete your custom entry field handles](https://twitter.com/nystudio107/status/982268301127532544?lang=en)
 
 ## Follow the Tutorial
 
